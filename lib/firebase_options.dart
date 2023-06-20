@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBLeFlOgbNIbxwn84xp59VUSR1wuHWbiLg',
-    appId: '1:510310902694:android:811573a8e386b7ed51fd67',
-    messagingSenderId: '510310902694',
-    projectId: 'maintenance-services-app',
-    storageBucket: 'maintenance-services-app.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCvNyPATpG-VcC2WqraoowaP71KHG2dma0',
-    appId: '1:510310902694:ios:d3005895a6117fe251fd67',
-    messagingSenderId: '510310902694',
-    projectId: 'maintenance-services-app',
-    storageBucket: 'maintenance-services-app.appspot.com',
-    iosClientId: '510310902694-b3tmgoe7677u53kf51g0jfic2nv61qhc.apps.googleusercontent.com',
-    iosBundleId: 'com.example.maintenanceServicesApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }

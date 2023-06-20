@@ -70,7 +70,6 @@ class AppStrings {
 
 
   /// Auth Controller
-
   static const String SERVICE_PROVIDER = 'Service Provider';
   static const String ACCOUNT_ACCTIVATION_ALERT = 'Account Activation Alert';
   static const String ACTIVATION_MSG = "Dear User\n We are pleased to inform you that your account for the Repairing & Maintenance Service App has been approved by the Admin. You can now login to your account and start using our services.\nWe appreciate your patience throughout the approval process and we look forward to providing you with a seamless experience.\nThank you for choosing our app for your repairing and maintenance needs.\n \n Regards \nAdmin@rmsa.com";
